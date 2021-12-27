@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-I am Isiaka Lukman Bamidele, A software Developer and a Student.
+I am Isiaka Lukman Bamidele, A Front-End Web Developer.
 
