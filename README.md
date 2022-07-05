@@ -4,5 +4,6 @@ I am Isiaka Lukman Bamidele, A Front-End Web Developer, I am currently focused o
 ### FAVOURITE TOOLS
 - React-Query
 - Redux 
-- Redux-Toolkit
+- Mantine UI
+- Zustand
 
